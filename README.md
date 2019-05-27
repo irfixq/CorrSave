@@ -1,6 +1,7 @@
 # CorrSave User Manual
 ## Corrosion Images Classification to Improve Industrial Corrosion Management
 This application use machine learning (convolutional neural network & image processing features) to classify the material corrosiveness.
+Application link: 
 
 ### Option 1: Use our pre-trained model to test your data.
 1. Download pre-trained model from https://github.com/nurafiqah78/CorrSave/blob/master/pre-trained_model%202019-05-16%2010.37.57
@@ -16,4 +17,4 @@ This application use machine learning (convolutional neural network & image proc
 4. click 'Calculate features' and 'start training'
 5. Tab 3 (Test Model): Upload your test data (1 image, URL or multiple images in older)
 
-You may refer to our 'Corrosion_Classification_Documentation.pdf' for more info.
+You may refer to Documentation () and shinyapp slide (http://rpubs.com/oryzalee/499546) for more info.
