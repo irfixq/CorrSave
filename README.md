@@ -3,7 +3,7 @@
 This application use machine learning (convolutional neural network & image processing features) to classify the material corrosiveness.
 
 ### Option 1: Use our pre-trained model to test your data.
-1. Download pre-trained model from https://github.com/nurafiqah78/CorrSave
+1. Download pre-trained model from https://github.com/nurafiqah78/CorrSave/blob/master/pre-trained_model%202019-05-16%2010.37.57
 2. skip Tab 1 as you already has the scale attributes ready from the trained model.
 3. Download scale attributes file from https://github.com/nurafiqah78/CorrSave
 4. Tab 2 (Pre-Train Model): upload (1.) Model File and (2.) ScaleAttribute File
