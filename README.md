@@ -17,4 +17,4 @@ Application link:
 4. click 'Calculate features' and 'start training'
 5. Tab 3 (Test Model): Upload your test data (1 image, URL or multiple images in older)
 
-You may refer to Documentation () and shinyapp slide (http://rpubs.com/oryzalee/499546) for more info.
+You may refer to Documentation () and shinyapp slide (http://rpubs.com/oryzalee/500830) for more info.
